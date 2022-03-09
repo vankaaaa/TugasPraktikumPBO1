@@ -10,7 +10,7 @@ package Tugas2;
  */
 public class Tabung extends Lingkaran implements MenghitungRuang {
     
-    private double tinggi, hasilVolume, hasilLuasPermukaan;
+    private double tinggi;
 
     public Tabung(double r, double t) {
         super(r);
