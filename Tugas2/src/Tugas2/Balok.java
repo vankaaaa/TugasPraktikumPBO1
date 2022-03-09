@@ -9,7 +9,7 @@ package Tugas2;
  * @author VANKA
  */
 public class Balok extends PersegiPanjang implements MenghitungRuang{
-    private double tinggi, hasilVolume, hasilLuasPermukaan;
+    private double tinggi;
     
     public Balok(double p, double l, double t){
         super(p , l);
