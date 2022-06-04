@@ -4,10 +4,7 @@
  */
 package tugas1;
 
-/**
- *
- * @author VANKA
- */
+
 public class Konversi {
     double celcius;
     double r, f, k;
